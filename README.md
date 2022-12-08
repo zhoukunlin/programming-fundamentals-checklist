@@ -8,9 +8,7 @@
 
 
 
-这是一个允许共建的项目，如果您想帮忙完善base.md文件，您需要参考下面的文章来学习如何通过Github参与协作：
-
-[the-craft-of-selfteaching/02.proof-of-work.ipynb at master](https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/02.proof-of-work.ipynb)
+这是一个允许共建的项目，如果您想帮忙完善base.md文件，您需要参考[Contribute Guide](https://github.com/white-belt-keep-crawling/programming-fundamentals-checklist/blob/main/contribute-guide.md)来学习如何通过Github参与协作。
 
 
 
